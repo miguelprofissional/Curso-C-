@@ -1,0 +1,21 @@
+Aula 01 - Conceitos básicos necessários para iniciar nosso curso de C++
+
+
+
+linguagem de alto e baixo nível
+
+Ponteiros
+
+Endereços de memoria
+
+Compiladores \ compilar
+
+Sistema operacional
+
+Processador
+
+Hard Disk
+
+Memoria RAM
+
+
