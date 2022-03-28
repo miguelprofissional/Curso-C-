@@ -1,0 +1,21 @@
+Aula 04 - Curso de C++ #04 - Variáveis em C++
+
+
+
+tipos, nome, valor variáveis
+
+int vidas = 1
+
+char letra = D
+
+string nome = diego
+
+bool vivo = true or false
+
+double decimal = 2.49999
+
+float decimal2 - 2.5
+
+
+
+https://youtu.be/hur9N6pHEbU
